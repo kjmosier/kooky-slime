@@ -1,0 +1,48 @@
+html {
+  font-size: 10px;
+  font-family: Fresca, sans-serif;
+  text-align: center;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgba(89, 0, 255, 0.14);
+  padding: 20px 20px 20px 20px;
+//  border: 5px solid black;
+}
+
+
+
+h1{
+  font-size:80px;
+  text-shadow: 1px 1px 1px grey;
+  padding 60px 0px 0px 0px;
+}
+
+#igLink{
+  width:60px; /* you can use % */
+  height: auto;
+}
+
+#KSIG{
+  width:375px; /* you can use % */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+h2{
+  font-size:30px;
+//  text-shadow: 1px 1px 1px grey;
+}
+h3{
+  font-size:15px;
+//  text-shadow: 1px 1px 1px grey;
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+}
